@@ -1,0 +1,29 @@
+_repo: De-Duodecim-Abusionibus-Saeculi_74516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Patrick, Saint
+    aliases:
+    - Pádraigh, Naomh
+    - Padraigh, Naomh
+    - Ireland, Saint Patrick of
+    gutenberg_agent_id: '39618'
+    url: http://www.gutenberg.org/2009/agents/39618
+description: ''
+gutenberg_issued: '2024-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74516'
+language: la
+pgterms:marc905: 20120213142341patrick
+pgterms:marc906: '1847'
+pgterms:marc907: FR
+publication_note: '  $aParis :$bD''Amboise, Pres La Barriere D''Enfer, ou Petit-Montrouge,
+  $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De Duodecim Abusionibus Saeculi
+url: http://www.gutenberg.org/ebooks/74516
